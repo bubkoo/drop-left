@@ -49,8 +49,8 @@ dropLeft(null); // => Exception
 - [to-length](https://github.com/bubkoo/to-length) - Converts value to an integer suitable for use as the length of an array-like object.
 - [pick-item](https://github.com/bubkoo/pick-item) - Randomly sampling a item from an array.
 - [pick-items](https://github.com/bubkoo/pick-items) - Randomly sampling some items from an array. 
-- [shuffle-arr](https://github.com/bubkoo/shuffle-arr) - Randomize the order of the elements in an array(array like object). 
-- [is-array-like](https://github.com/bubkoo/is-array-like) - Checks if the given value is an array or an array-like object.
+- [shuffle-arr](https://github.com/bubkoo/shuffle-arr) - Randomize the order of the elements in an array or array-like object. 
+- [is-array-like](https://github.com/bubkoo/is-array-like) - Checks if the given value is an array or array-like object.
 
 
 
